@@ -1,6 +1,6 @@
 # Brute-Force Blocker
 
-A lightweight intrusion prevention tool that watches a log file for repeated failed login attempts and automatically blocks attacking IPs using real Windows Firewall rules — a minimal, purpose-built version of what fail2ban does on Linux servers.
+A lightweight intrusion prevention tool that watches a log file for repeated failed login attempts and automatically blocks attacking IPs using real Windows Firewall rules — a minimal, purpose-built version of what fail2ban does on Linux servers. Written by Joel Odum.
 
 ## The Idea
 
